@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **The best place in the world is 127.0.0.1**
 
+- 🔥 Please feel free to review my resume by clicking on the following link: https://drive.google.com/file/d/1sXqliRxIP6gOqOj6R1kSE5ek5gJE1Y3w/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/binitnayak48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binitnayak48" height="30" width="40" /></a>
