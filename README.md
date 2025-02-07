@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **The best place in the world is 127.0.0.1**
 
+- 😄 My portfolio **website** : https://binit-nayak.netlify.app/
+
 - 🔥 Please feel free to review my **Resume** by clicking on the following link:
   https://drive.google.com/file/d/1sXqliRxIP6gOqOj6R1kSE5ek5gJE1Y3w/view?usp=sharing
 
