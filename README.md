@@ -1,4 +1,4 @@
----
+
 
 ## 🚀 About Me
 
@@ -12,7 +12,6 @@
 🌐 Portfolio: **[https://binit-nayak.netlify.app](https://binit-nayak.netlify.app)**
 📄 Resume: **[View Resume](https://drive.google.com/file/d/1sXqliRxIP6gOqOj6R1kSE5ek5gJE1Y3w/view)**
 
----
 
 ## 🛠 Tech Stack
 
