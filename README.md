@@ -3,14 +3,14 @@
 ## 🚀 About Me
 
 * 🔭 Building a Full Stack **Swipe based product explore** with **analytics & AI insights**
-* 🌱 Learning **Next.js 15, System Design, Web Performance, AI integrations**
+* 🌱 Learning **Java SpringBoot 15, System Design, Web Performance, AI integrations**
 * 💬 Ask me about **React, TypeScript, Java, Frontend Architecture**
 * 🎯 Focused on **scalable UI systems, performance & developer experience**
 * ⚡ Fun fact: *The safest place in the world is **`127.0.0.1`*
 
 📫 Reach me: **[binitnayak48@gmail.com](mailto:binitnayak48@gmail.com)**
 🌐 Portfolio: **[https://binit-nayak.netlify.app](https://binit-nayak.netlify.app)**
-📄 Resume: **[View Resume](https://drive.google.com/file/d/1eaohq9XGQMExBUZ4k6NzDDyfky0qO6w-/view?usp=sharing)**
+📄 Resume: **[View Resume](https://drive.google.com/file/d/1VJoxi7nCAnZeSxcQgi1FgPWBC-dQn166/view?usp=sharing)**
 
 
 ## 🛠 Tech Stack
