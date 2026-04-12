@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 * 🔭 Building a Full Stack **Swipe based product explore** with **analytics & AI insights**
-* 🌱 Learning **Java SpringBoot 15, System Design, Web Performance, AI integrations**
+* 🌱 Learning **Java SpringBoot, System Design, Web Performance, AI integrations**
 * 💬 Ask me about **React, TypeScript, Java, Frontend Architecture**
 * 🎯 Focused on **scalable UI systems, performance & developer experience**
 * ⚡ Fun fact: *The safest place in the world is **`127.0.0.1`*
