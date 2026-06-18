@@ -10,7 +10,7 @@
 
 📫 Reach me: **[binitnayak48@gmail.com](mailto:binitnayak48@gmail.com)**
 🌐 Portfolio: **[https://binit-nayak.netlify.app](https://binit-nayak.netlify.app)**
-📄 Resume: **[View Resume](https://drive.google.com/file/d/1VJoxi7nCAnZeSxcQgi1FgPWBC-dQn166/view?usp=sharing)**
+📄 Resume: **[View Resume](https://drive.google.com/file/d/1THII7mXHH6fUMpOoEmRLQzYDMCIF4yVE/view?usp=sharing)**
 
 
 ## 🛠 Tech Stack
