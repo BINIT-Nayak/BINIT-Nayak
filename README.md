@@ -25,7 +25,7 @@ A full-stack shopping discovery experience with swipe interactions, wishlist and
 - Added **PostgreSQL**, **Redis** caching, and optional **Kafka** activity events
 - Designed a hybrid recommendation pipeline with rule-based candidate generation, ML probability scoring, diversity reranking, graceful fallback, and cached results
 
-Repositories: [Frontend](https://github.com/BINIT-Nayak/Sneaky) · [Backend](https://github.com/BINIT-Nayak/Sneaky_Backend) · [ML Reranker](https://github.com/BINIT-Nayak/Sneaky_Recommender)
+Repositories: [Frontend](https://github.com/BINIT-Nayak/Sneaky) · [Backend](https://github.com/BINIT-Nayak/Sneaky_Backend) · [ML Reranker](https://github.com/BINIT-Nayak/Sneaky_Recommender) · [Docker Deployment](https://github.com/BINIT-Nayak/Sneaky_Deployment)
 
 ### [VibeJournal](https://github.com/BINIT-Nayak/VibeJournal) — Private mood journal
 
