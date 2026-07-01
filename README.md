@@ -4,10 +4,11 @@
 
 I enjoy turning product ideas into complete applications—from responsive React interfaces to secure Spring Boot APIs, recommendation pipelines, and production deployments. Right now, I am building **Sneaky**, a swipe-based product discovery platform with behavioral analytics and hybrid recommendations.
 
-- 🔭 Building full-stack products with **React, TypeScript, Java, Spring Boot, and Python**
-- 🧠 Exploring **recommendation systems, AI integrations, system design, and web performance**
-- 💬 Ask me about **frontend architecture, REST APIs, Redis caching, and product-focused engineering**
-- ⚡ Fun fact: the safest place in the world is `127.0.0.1`
+- 🔭 Building **Sneaky**, a swipe-based product discovery platform with hybrid recommendations
+- 🧩 Working across **React, TypeScript, Spring Boot, Python, PostgreSQL, and Redis**
+- 🧠 Exploring **recommendation systems, system design, AI integrations, and web performance**
+- 💬 Ask me about **frontend architecture, REST APIs, caching, and scalable full-stack systems**
+- ⚡ Fun fact: my favorite safe space is `127.0.0.1`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://binit-nayak.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binitnayak48@gmail.com)
@@ -71,12 +72,12 @@ A personalized video browsing experience featuring search, recommendations, cont
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 
-## GitHub Activity
+## Current Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BINIT-Nayak&show_icons=true&theme=tokyonight&hide_border=true" alt="Binit's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BINIT-Nayak&layout=compact&theme=tokyonight&hide_border=true" alt="Binit's most used languages" />
-</p>
+- 🛍️ Building [Sneaky](https://github.com/BINIT-Nayak/Sneaky), a swipe-based product discovery platform
+- ⚙️ Developing its [Spring Boot backend](https://github.com/BINIT-Nayak/Sneaky_Backend) with secure APIs, PostgreSQL, Redis, and event-driven architecture
+- 🧠 Creating an [ML recommendation reranker](https://github.com/BINIT-Nayak/Sneaky_Recommender) for personalized product discovery
+- 🌱 Learning more about recommendation systems, system design, AI integrations, and production-grade web performance
 
 <p align="center">
   <i>Build useful things. Keep learning. Make the next version better.</i>
